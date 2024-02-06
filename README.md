@@ -2,20 +2,20 @@
 
 ![Texto Alternativo](https://raw.githubusercontent.com/GelcimarMoraes/Landing_Page_Virtual_Reality_Glasse/main/screencapture.png)
 
-<h3 align="center">💻 Projeto</h3>
+<h3 align="center">💻 Project</h3>
 
 <div align="center">
 <p> 
   
-  Este projeto foi desenvolvido com base nos Tutorials do [w3schools](https://www.w3schools.com/) 
+  This project was developed based on the Tutorials of [w3schools](https://www.w3schools.com/) 
 
 </p>
 </div>
 
 <br/><br/>
-<h3 align="center">🚀 Tecnologias</h3>
+<h3 align="center">🚀 Technologies</h3>
 <p align="center">
-  Esse projeto foi desenvolvido com as seguintes tecnologias:
+  This project was developed with the following technologies:
   <br> <br>
     <code><img style="width: 40px" src="https://skillicons.dev/icons?i=html"/></code>
     <code><img style="width: 40px" src="https://skillicons.dev/icons?i=css"/></code>
