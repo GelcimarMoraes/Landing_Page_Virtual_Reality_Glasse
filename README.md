@@ -1,6 +1,6 @@
 <div align="center"> <h1>Landing Page Virtual Reality Glasse</h1> </div> 
 
-![Texto Alternativo](https://raw.githubusercontent.com/GelcimarMoraes/Sliding-Menu-Indicator/main/Captura%20de%20Tela%20(22).png)
+![Texto Alternativo](https://raw.githubusercontent.com/GelcimarMoraes/Landing_Page_Virtual_Reality_Glasse/main/screencapture.png)
 
 <h3 align="center">💻 Projeto</h3>
 
